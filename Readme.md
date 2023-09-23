@@ -29,7 +29,7 @@ We are going to learn the basics of Terraform:
 - Terraform validate
 - Terraform plan
 - Terraform apply
-- Terraform apply (updateing)
+- Terraform apply (updating)
 - Create Input Variables
 - Set Locals
 - Create Outputs
